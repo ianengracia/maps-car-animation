@@ -1,2 +1,4 @@
-# maps-car-animation
-Car animation in Google Maps in Javascript
+# Car Animation in Google Maps using JS
+Simple car animation that follows a predefined route.
+
+
